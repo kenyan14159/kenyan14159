@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- FITNESS_STATS:START -->
+### Running Stats
+
+> Updated 2026-04-19T22:12:19.459Z · Auto-generated from Strava
+
+| Metric | Value |
+| --- | ---: |
+| Year 2026 | 1,196 / 4,320 km (27.7%) |
+| Month (Apr) | 183.7 / 360 km (51%) |
+| Streak | 1 days |
+| Last run | 12.2 km @ 3'55" on 2026-04-20 |
+
+[0345runner.dev](https://0345runner.dev)
+<!-- FITNESS_STATS:END -->
