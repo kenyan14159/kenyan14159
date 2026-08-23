@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 <!-- FITNESS_STATS:START -->
 ### Running Stats
 
-> Updated 2026-08-20T22:01:17.154Z · Auto-generated from Strava
+> Updated 2026-08-23T22:03:01.585Z · Auto-generated from Strava
 
 | Metric | Value |
 | --- | ---: |
-| Year 2026 | 2,448.9 / 3,600 km (68%) |
-| Month (Aug) | 181.3 / 300 km (60.4%) |
-| Streak | 5 days |
-| Last run | 12.2 km @ 4:07 on 2026-08-21 |
+| Year 2026 | 2,461 / 3,600 km (68.4%) |
+| Month (Aug) | 193.4 / 300 km (64.5%) |
+| Streak | 1 days |
+| Last run | 12.2 km @ 4:07 on 2026-08-24 |
 
 [0345runner.dev](https://0345runner.dev)
 <!-- FITNESS_STATS:END -->
